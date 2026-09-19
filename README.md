@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Ernest 👋
+
+### Java Backend Developer
+
+I'm a Java backend developer with a Computer Engineering background, focused on building reliable and well-tested backend applications with Java and Spring Boot.
+
+I'm currently developing production-oriented projects covering REST API design, PostgreSQL, automated testing, Docker, CI/CD, cloud deployment and software design.
 
 <!--
 **ernest-nnodu/ernest-nnodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
