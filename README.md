@@ -19,6 +19,26 @@ I'm currently developing production-oriented projects covering REST API design, 
 **Observability:** Spring Boot Actuator • Micrometer • Prometheus • Grafana
 
 **Tools:** Git • GitHub • Maven • Flyway
+
+## 🚀 Featured Projects
+
+### BootForge — Spring Boot Configuration Generator
+
+A developer tool for generating Spring Boot `application.properties` and YAML configuration from structured configuration options.
+
+**Tech:** Java • Spring Boot • Maven • Docker • GitHub Actions • Render
+
+**Engineering highlights:**
+- Generates both YAML and `.properties` configuration
+- Request validation and structured error handling
+- Automated unit and integration testing
+- Multi-stage Docker containerisation
+- Spring Boot Actuator readiness and liveness checks
+- CI pipeline covering Maven verification, Docker build, container startup and API smoke testing
+- Deployed to Render with production-specific configuration
+
+**Links:** [GitHub Repository](https://github.com/ernest-nnodu/BootForge) • [Live Application](https://bootforge.onrender.com)
+
 <!--
 **ernest-nnodu/ernest-nnodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
