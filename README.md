@@ -58,6 +58,16 @@ A knowledge management platform that combines Spring Boot with Retrieval-Augment
 
 **Links:** [GitHub Repository](https://github.com/ernest-nnodu/Gold-Stack)
 
+## 📚 Currently Developing
+
+I'm currently deepening my knowledge of:
+
+- Advanced Java and the Java platform
+- Spring and Spring Boot
+- Software design and architecture
+- PostgreSQL and database engineering
+- Cloud and production backend engineering
+
 <!--
 **ernest-nnodu/ernest-nnodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
