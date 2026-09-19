@@ -39,6 +39,25 @@ A developer tool for generating Spring Boot `application.properties` and YAML co
 
 **Links:** [GitHub Repository](https://github.com/ernest-nnodu/BootForge) • [Live Application](https://bootforge.onrender.com)
 
+### Gold Stack — AI-Powered Knowledge Platform
+
+A knowledge management platform that combines Spring Boot with Retrieval-Augmented Generation (RAG) to answer questions using stored application content.
+
+**Tech:** Java • Spring Boot • PostgreSQL • Spring AI • pgvector • Docker • AWS • Testcontainers
+
+**Engineering highlights:**
+- Built REST APIs for managing knowledge content
+- Implemented RAG using Spring AI and OpenAI embeddings
+- Added semantic similarity search using PostgreSQL and pgvector
+- Automatically indexes, re-indexes and removes vector documents as application data changes
+- Uses deterministic document IDs to keep relational and vector data synchronized
+- Integration testing with PostgreSQL Testcontainers
+- Containerised application and supporting infrastructure with Docker
+- Application observability using Spring Boot Actuator, Prometheus and Grafana
+- Deployed on AWS Lightsail
+
+**Links:** [GitHub Repository](https://github.com/ernest-nnodu/Gold-Stack)
+
 <!--
 **ernest-nnodu/ernest-nnodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
